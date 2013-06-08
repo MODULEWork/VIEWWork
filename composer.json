@@ -1,6 +1,7 @@
 {
     "name": "modulework/viewwork",
     "description": "A simple way of handling view files",
+    "type": "module",
     "license": "Apache 2.0",
     "authors": [
         {
